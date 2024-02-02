@@ -1,0 +1,15 @@
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Blood Bank.exe.config
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Blood Bank.exe
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Blood Bank.pdb
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Business-Layer.dll
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Business-Layer.pdb
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.csproj.CopyComplete
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.exe
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood Bank.pdb
+D:\mohammed abohdhd\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Data_Access_Layer.dll
+D:\mohammed abohdhd\Blood Bank\bin\Debug\Data_Access_Layer.pdb
