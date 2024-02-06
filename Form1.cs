@@ -550,6 +550,7 @@ namespace Blood_Bank
 
             int NumberOfBloodInStock = Convert.ToInt32(dgvBloodStockTransfer.Rows[0].Cells[1].Value);
 
+
             if(NumberOfBloodInStock > 0 && lblPatientName.Text != "")
             {
                 BloodGroup Blood = BloodGroup.FindByBloodGroupName(lblPatinetBloodGroup.Text);
